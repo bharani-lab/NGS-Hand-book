@@ -151,7 +151,7 @@ Sequence length   100
 
 **Figure 1:** Per base sequence quality plot for example .fastq
 
-.. image:: vertopal_4d620e5c4e1d49c18117bd01b67b88b5/media/image1.png
+.. image:: media/image1.png
    :width: 5.00139in
    :height: 3.59722in
 
@@ -215,7 +215,7 @@ Sequence length   50-100
 **Figure 2:** Per base sequence quality plot for the quality-trimmed
 reads
 
-.. image:: vertopal_4d620e5c4e1d49c18117bd01b67b88b5/media/image2.png
+.. image:: media/image2.png
    :width: 5.57083in
    :height: 3.88819in
 
@@ -429,7 +429,7 @@ both contribute the 80% frequency in the retinoblastoma samples.
 
 **Figure 3:** Potential Disease-causing variants
 
-.. image:: vertopal_4d620e5c4e1d49c18117bd01b67b88b5/media/image3.png
+.. image:: media/image3.png
    :width: 6.49722in
    :height: 0.62917in
 
@@ -492,7 +492,7 @@ at the gene RB1 in chromosome 13
 
 **Figure 4:** Visualization of the variants in IGV
 
-.. image:: vertopal_4d620e5c4e1d49c18117bd01b67b88b5/media/image4.png
+.. image:: media/image4.png
    :alt: Rb1_workshop
    :width: 6.49583in
    :height: 2.61667in
