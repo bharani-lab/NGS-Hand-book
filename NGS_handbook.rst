@@ -39,7 +39,7 @@ SRA-toolkit for downloading the raw reads.
 Open your terminal
 
 1. Set your working directory as Desktop
-
+command:
    **cd Desktop/NGS_Data_Analysis**
 
 2. At any time, help can be displayed for fastq-dump with the following
@@ -48,7 +48,7 @@ command:
    **fastq-dump -h**
 
 3. Execute the following commands for downloading the data from SRA
-
+command:
    **fastq-dump SRR098401 --split-files**
 
 (SRR098401 is SRA number and the command “--split-files” separates the
