@@ -40,7 +40,7 @@ Open your terminal
 
 1. Set your working directory as Desktop
 
-   **cd** **Desktop/NGS_Data_Analysis**
+   **cd Desktop/NGS_Data_Analysis**
 
 2. At any time, help can be displayed for fastq-dump with the following
 command:
